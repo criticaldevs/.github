@@ -20,7 +20,7 @@ We focus on quality over speed, building robust systems that scale. Our approach
 
 ## Meet the Team
 
-### Kazuto
+### [Kazuto](https://github.com/kazuto)
 **Co-Founder & Developer**
 
 Full-stack developer with a strong design background and a passion for crafting beautiful, functional web experiences. Started as a graphic designer before diving into front-end development, then expanding to full-stack. Combines visual storytelling with technical expertise.
@@ -29,7 +29,7 @@ Works with Go, Vue, Nuxt, Node.js, and loves automating workflows. Passionate ga
 
 `Full-Stack` `Go` `Vue` `Design` `DevOps` `Gaming`
 
-### WlanKabL
+### [WlanKabL](https://github.com/WlanKabL)
 **Co-Founder & Developer**
 
 Full-stack developer with a perfectionist eye for detail and a passion for solving complex problems. Specializes in building fast, scalable web applications with Vue.js, Node.js, and C#. Strong focus on architecture, automation, and developer experience.
